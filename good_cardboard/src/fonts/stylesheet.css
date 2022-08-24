@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Estonia';
+    src: url('Estonia-Regular.eot');
+    src: local('Estonia Regular'), local('Estonia-Regular'),
+        url('Estonia-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Estonia-Regular.woff2') format('woff2'),
+        url('Estonia-Regular.woff') format('woff'),
+        url('Estonia-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
